@@ -50,8 +50,6 @@ The game continues until one player's health reaches zero.
 - **Node.js** (version 14 or later)
 - **npm**
 
-## Setup
-
 ```bash
 # Install dependencies
 npm install
